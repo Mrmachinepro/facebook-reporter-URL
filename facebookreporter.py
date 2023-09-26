@@ -54,7 +54,7 @@ os.system("clear")
 
 print("report automation is startig.....")
 
-url = 'https://m.facebook.com/help/contact/209046679279097'
+url = 'https://www.facebook.com/safinislam.sayem.3'
 
 data = {
 'crt-url' : fb,
